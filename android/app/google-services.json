@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145321833891",
+    "project_id": "foodzee-f7bc0",
+    "storage_bucket": "foodzee-f7bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145321833891:android:8515ba0c4e22a337d35616",
+        "android_client_info": {
+          "package_name": "com.foodzee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145321833891-b4483noeqst4bfq8ccgi77852mcp96al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodzee",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "145321833891-f1ab98klcfvd5d22ssee3nle4lsningj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixCfuUokG1IuOL_6FzEVxezXZipOBGrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145321833891-f1ab98klcfvd5d22ssee3nle4lsningj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
